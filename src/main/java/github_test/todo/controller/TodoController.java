@@ -17,8 +17,5 @@ public class TodoController {
     }
 
     // x
-    // y
-    // z
-    // TEWST
 }
 
