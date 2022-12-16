@@ -19,6 +19,5 @@ public class TodoController {
     // x
     // y
     // z
-    // cherry
 }
 
