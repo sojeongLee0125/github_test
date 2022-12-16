@@ -10,5 +10,10 @@ public class TodoController {
     public String home() {
         return "To-do Application !";
     }
+
+    @GetMapping("/hello")
+    public String hello() {
+        return "hello !";
+    }
 }
 
